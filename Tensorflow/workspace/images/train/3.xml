@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>3.jpeg</filename>
+	<path>C:\Users\Chitrakshi\OneDrive\Documents\Desktop\TFOD\TFODCourse\Tensorflow\workspace\images\train\3.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>1600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>knife</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>128</xmin>
+			<ymin>535</ymin>
+			<xmax>680</xmax>
+			<ymax>908</ymax>
+		</bndbox>
+	</object>
+</annotation>
